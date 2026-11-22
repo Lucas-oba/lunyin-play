@@ -14,12 +14,12 @@
   {
     "name": "index.pck",
     "gzip": true,
-    "raw_size": 7957312,
-    "sha256": "ede3c4eadbbf923c887a69d306550011a65c2b015be0c0b7f2f57ddc8b0e7a5c",
+    "raw_size": 8106920,
+    "sha256": "86930c9e973131c64abc42e3e87414af18f7410ec4d7878805956be9af6fbe1a",
     "parts": [
-      "chunks/index.pck.gz.b64.00",
-      "chunks/index.pck.gz.b64.01",
-      "chunks/index.pck.gz.b64.02"
+      "chunks/index.pck-tv4.gz.b64.00",
+      "chunks/index.pck-tv4.gz.b64.01",
+      "chunks/index.pck-tv4.gz.b64.02"
     ]
   },
   {
