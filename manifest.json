@@ -13,12 +13,12 @@
   },
   {
     "name": "index.pck",
-    "sha256": "e36b4c135d6aafbd9d69cf82d33b2ff90aa4930dd5f2106af07a61bf63c603ca",
+    "sha256": "760b0ddb781bd41097c3fd41206e2fb986db26e4cd3a829cc13fddd8bcac8d74",
     "gzip": true,
     "parts": [
       "chunks/index.pck.gz.b64"
     ],
-    "raw_size": 1668376
+    "raw_size": 1670328
   },
   {
     "name": "index.png",
