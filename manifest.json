@@ -1,51 +1,52 @@
 [
   {
     "name": "index.wasm",
-    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
     "gzip": true,
+    "raw_size": 39514754,
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
     "parts": [
       "chunks/index.wasm.gz.b64.00",
       "chunks/index.wasm.gz.b64.01",
       "chunks/index.wasm.gz.b64.02",
       "chunks/index.wasm.gz.b64.03"
-    ],
-    "raw_size": 39514754
+    ]
   },
   {
     "name": "index.pck",
-    "sha256": "ee9568a06207a89cee7ab72380a9dccfc514c1b4a24632c2bddb229ec69ae454",
     "gzip": true,
+    "raw_size": 7952984,
+    "sha256": "3587f9eba0eef173c7ae099f1cab8575d252f8b9806a30f00cf2d0ffa820f671",
     "parts": [
       "chunks/index.pck.gz.b64.00",
-      "chunks/index.pck.gz.b64.01"
-    ],
-    "raw_size": 6689392
+      "chunks/index.pck.gz.b64.01",
+      "chunks/index.pck.gz.b64.02"
+    ]
   },
   {
     "name": "index.png",
-    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "gzip": false,
+    "raw_size": 21443,
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "parts": [
       "chunks/index.png.b64"
-    ],
-    "raw_size": 21443
+    ]
   },
   {
     "name": "index.icon.png",
-    "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
     "gzip": false,
+    "raw_size": 5700,
+    "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
     "parts": [
       "chunks/index.icon.png.b64"
-    ],
-    "raw_size": 5700
+    ]
   },
   {
     "name": "index.apple-touch-icon.png",
-    "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
     "gzip": false,
+    "raw_size": 11944,
+    "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
     "parts": [
       "chunks/index.apple-touch-icon.png.b64"
-    ],
-    "raw_size": 11944
+    ]
   }
 ]
