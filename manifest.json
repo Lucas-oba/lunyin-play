@@ -1,0 +1,50 @@
+[
+  {
+    "name": "index.wasm",
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+    "gzip": true,
+    "parts": [
+      "chunks/index.wasm.gz.b64.00",
+      "chunks/index.wasm.gz.b64.01",
+      "chunks/index.wasm.gz.b64.02",
+      "chunks/index.wasm.gz.b64.03"
+    ],
+    "raw_size": 39514754
+  },
+  {
+    "name": "index.pck",
+    "sha256": "dcb160351dc6ee38cc85046a9677a1225728f6d96beb805561611c7b7afce4d0",
+    "gzip": true,
+    "parts": [
+      "chunks/index.pck.gz.b64"
+    ],
+    "raw_size": 1625252
+  },
+  {
+    "name": "index.png",
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "gzip": false,
+    "parts": [
+      "chunks/index.png.b64"
+    ],
+    "raw_size": 21443
+  },
+  {
+    "name": "index.icon.png",
+    "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+    "gzip": false,
+    "parts": [
+      "chunks/index.icon.png.b64"
+    ],
+    "raw_size": 5700
+  },
+  {
+    "name": "index.apple-touch-icon.png",
+    "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+    "gzip": false,
+    "parts": [
+      "chunks/index.apple-touch-icon.png.b64"
+    ],
+    "raw_size": 11944
+  }
+]
