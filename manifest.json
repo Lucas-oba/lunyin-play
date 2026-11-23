@@ -1,5 +1,16 @@
 [
   {
+    "name": "index.pck",
+    "gzip": true,
+    "raw_size": 9173196,
+    "sha256": "7f9fc35ce0710d9b7de16f9a286281d16efda0177c00ed30e06f2844fe4b80ac",
+    "parts": [
+      "chunks/index.pck-s4.gz.b64.00",
+      "chunks/index.pck-s4.gz.b64.01",
+      "chunks/index.pck-s4.gz.b64.02"
+    ]
+  },
+  {
     "name": "index.wasm",
     "gzip": true,
     "raw_size": 39514754,
@@ -9,17 +20,6 @@
       "chunks/index.wasm.gz.b64.01",
       "chunks/index.wasm.gz.b64.02",
       "chunks/index.wasm.gz.b64.03"
-    ]
-  },
-  {
-    "name": "index.pck",
-    "gzip": true,
-    "raw_size": 8105176,
-    "sha256": "a82dcc03fab3b7b80d3f53fa5048b1ebca4f7d0bb27d94532110c18f19ec14d6",
-    "parts": [
-      "chunks/index.pck-tv4c.gz.b64.00",
-      "chunks/index.pck-tv4c.gz.b64.01",
-      "chunks/index.pck-tv4c.gz.b64.02"
     ]
   },
   {
